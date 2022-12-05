@@ -1,0 +1,24 @@
+* {
+    font-family: 'Consolas, BIZ UDPGothic' !important;
+}
+
+#mainPopupSet,
+#mainPopupSet * {
+    font-family: 'Yu Gothic UI' !important;
+}
+
+.tab-content,
+.tab-content *,
+.tab-content[selected="true"],
+.tab-content[selected="true"] * {
+    font-family: 'Consolas, Yu Gothic UI' !important;
+    color: whitesmoke !important;
+    font-size: 8.2pt;
+}
+
+.tab-content {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    padding-left: 1pt !important;
+    padding-right: 1pt !important;
+}
