@@ -59,3 +59,6 @@ user_pref("mousewheel.default.delta_multiplier_y", 400);
 user_pref("browser.cache.disk.enable", false);
 user_pref("browser.cache.memory.enable", true);
 user_pref("browser.cache.memory.capacity", -1);
+
+// language
+user_pref("intl.accept_languages", "ja,en-us,en");
