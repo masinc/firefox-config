@@ -62,3 +62,6 @@ user_pref("browser.cache.memory.capacity", -1);
 
 // language
 user_pref("intl.accept_languages", "ja,en-us,en");
+
+// disable smmoth scroll
+user_pref("general.smoothScroll", false);
